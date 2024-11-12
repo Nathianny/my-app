@@ -1,0 +1,22 @@
+.classContador{
+
+    font-size: 10px;
+}
+p{
+    font-size: 20px;
+    font-weight: 500;
+    font-size:small ;
+    font-style: italic;
+    color: rgb(197, 11, 11);
+}
+
+button{
+    background-color: blue;
+    border: none;
+    color: white;
+}
+
+button:hover{
+    background-color: red;
+    cursor: pointer;
+}
