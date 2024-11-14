@@ -1,12 +1,13 @@
+//import { Fragment } from 'react'
 import './App.css'
-import CorBotao from './componentes/MudarCorBotao'
+import MeuFragment from './componentes/Fragment'
 
 function App() {
 
   return (
-    <div>
-      <CorBotao />
-    </div>
+    <>
+      <MeuFragment />
+    </>
   )
 }
 
