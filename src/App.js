@@ -1,12 +1,13 @@
-//import { Fragment } from 'react'
+
 import './App.css'
-import MeuFragment from './componentes/Fragment'
+import MinhaRef from './componentes/MinhaRef'
+
 
 function App() {
 
   return (
     <>
-      <MeuFragment />
+      <MinhaRef />
     </>
   )
 }
